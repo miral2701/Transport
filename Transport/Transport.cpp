@@ -3,9 +3,6 @@
 using namespace std;
 
 
-
-
-
 void Transport::SetFluel(char* b)
 {
 	fluelType = b;
